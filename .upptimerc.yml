@@ -1,6 +1,5 @@
-# Change these first
-owner: qbitsltd # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: qbitsltd
+repo: upptime
 sites:
   - name: Saney.io
     url: https://saney.io
@@ -13,11 +12,8 @@ sites:
   - name: Qbits Ltd
     url: https://qbits.ltd
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.saney.io
-  # baseUrl: /your-repo-name
-  # logoUrl: https://saney.io/favicon.ico
+  baseUrl: /upptime
+  logoUrl: https://saney.io/favicon.ico
   name: Saney.io Status
   introTitle: "**Saney.io** Status Page"
   introMessage: Real-time uptime monitoring for Saney.io and related services, powered by GitHub Actions.
@@ -26,5 +22,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
