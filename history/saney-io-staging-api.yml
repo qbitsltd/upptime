@@ -1,7 +1,7 @@
 url: https://api.staging.saney.io
-status: down
-code: 503
-responseTime: 747
-lastUpdated: 2026-07-13T23:44:10.819Z
+status: up
+code: 200
+responseTime: 993
+lastUpdated: 2026-07-14T05:56:03.725Z
 startTime: 2026-06-29T06:34:01.549Z
 generator: Upptime <https://github.com/upptime/upptime>
